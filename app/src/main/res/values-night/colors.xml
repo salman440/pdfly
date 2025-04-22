@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF1100</color>
+    <color name="colorSecondary">#FF1400</color>
+    <color name="colorPrimaryDark">#FF0000</color>
+    <color name="colorAccent">#7372C3</color>
+    <color name="textColor">#DADADA</color>
+    <color name="textColorSecondary">#CACACA</color>
+    <color name="backgroundColor">#181818</color>
+    <color name="backgroundColorSecondary">#212121</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#919191</color>
+    <color name="red">#BC2F2F</color>
+    <color name="red_light">#BA4242</color>
+    <color name="green">#689F38</color>
+    <color name="colorPrimary_grey">#7F7F98</color>
+    <color name="reverse_white">#121212</color>
+    <color name="_white">#efefef</color>
+    <color name="wave_background">#515151</color>
+    <color name="lite_white">#444444</color>
+    <color name="textGrey">#9B9CA8</color>
+    <color name="dark_backgroundColor">#181818</color>
+    <color name="light_backgroundColor">#ffffff</color>
+
+</resources>
+
+<!--<resources>-->
+<!--    <color name="colorPrimary">#2A9D8F</color> &lt;!&ndash; Same Teal &ndash;&gt;-->
+<!--    <color name="colorSecondary">#F4A261</color> &lt;!&ndash; Warm Orange &ndash;&gt;-->
+<!--    <color name="colorPrimaryDark">#1A1A1A</color>-->
+<!--    <color name="colorAccent">#E76F51</color> &lt;!&ndash; Coral Red &ndash;&gt;-->
+
+<!--    <color name="textColor">#EEEEEE</color>-->
+<!--    <color name="textColorSecondary">#BBBBBB</color>-->
+
+<!--    <color name="backgroundColor">#121212</color>-->
+<!--    <color name="backgroundColorSecondary">#1E1E1E</color>-->
+
+<!--    <color name="white">#FFFFFF</color>-->
+<!--    <color name="lite_white">#2C2C2C</color>-->
+<!--    <color name="_white">#E0E0E0</color>-->
+
+<!--    <color name="textGrey">#9E9E9E</color>-->
+<!--    <color name="colorPrimary_grey">#3E4C49</color>-->
+<!--    <color name="reverse_white">#000000</color>-->
+
+<!--    <color name="grey">#888888</color>-->
+<!--    <color name="red">#FF6B6B</color>-->
+<!--    <color name="red_light">#EF9A9A</color>-->
+<!--    <color name="green">#81C784</color>-->
+
+<!--    <color name="wave_background">#2A2A2A</color>-->
+<!--    <color name="linkColor">#64B5F6</color>-->
+
+<!--    <color name="dark_backgroundColor">#121212</color>-->
+<!--    <color name="light_backgroundColor">#1E1E1E</color>-->
+<!--</resources>-->
