@@ -75,13 +75,13 @@ class AppSettings : AppCompatActivity() {
             }
 
 
-//            createdByPref?.setOnPreferenceClickListener {
-//                val browserIntent = Intent(
-//                    Intent.ACTION_VIEW, android.net.Uri.parse(Constants.privacypolicy)
-//                )
-//                startActivity(browserIntent)
-//                true
-//            }
+            createdByPref?.setOnPreferenceClickListener {
+                val browserIntent = Intent(
+                    Intent.ACTION_VIEW, android.net.Uri.parse(Constants.privacypolicy)
+                )
+                startActivity(browserIntent)
+                true
+            }
 
 
             val darkThemePref =
